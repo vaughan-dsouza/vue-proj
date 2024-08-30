@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-red {
+    @apply text-2xl;
+    @apply text-red-500;
+  }
